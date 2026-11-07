@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.BluetoothKeyboardManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#BB86FC</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:navigationBarColor">#121212</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#121212</color>
+</resources>
